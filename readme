@@ -1,0 +1,1 @@
+small script to overwrite files with zeros using unbuffered system calls.
